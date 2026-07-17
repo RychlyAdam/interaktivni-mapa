@@ -71,20 +71,17 @@ h1 {
     margin-top: 0;
 }
 
-#zavrit {
+.zavrit {
     margin-top: 15px;
     width: 100%;
     padding: 10px;
-
     border: none;
     border-radius: 10px;
-
     background: #d32f2f;
     color: white;
-
     cursor: pointer;
 }
 
-#zavrit:hover {
+.zavrit:hover {
     background: #b71c1c;
 }
